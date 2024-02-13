@@ -30,19 +30,19 @@ class ConfigSeeder extends Seeder
             ],
             [
                 'code' => 'institution_name',
-                'value' => '404nfid',
+                'value' => 'PT.Cipta Bayu Teknotama',
             ],
             [
                 'code' => 'institution_address',
-                'value' => 'Jl. Padat Karya',
+                'value' => 'Panglima Polim St No.53, Melawai, Kebayoran Baru, South Jakarta City, Jakarta 12160',
             ],
             [
                 'code' => 'institution_phone',
-                'value' => '082121212121',
+                'value' => '(021) 27091395',
             ],
             [
                 'code' => 'institution_email',
-                'value' => 'admin@admin.com',
+                'value' => 'business@ciptabayuteknotama.co.id',
             ],
             [
                 'code' => 'language',
@@ -50,7 +50,7 @@ class ConfigSeeder extends Seeder
             ],
             [
                 'code' => 'pic',
-                'value' => 'M. Iqbal Effendi',
+                'value' => 'Rehan',
             ],
         ]);
     }
